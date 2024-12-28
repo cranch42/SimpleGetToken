@@ -1,0 +1,18 @@
+{
+  "name": "SimpleGetToken",
+  "id": "1454390404492491899",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "permissions": ["teamlibrary"],
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
