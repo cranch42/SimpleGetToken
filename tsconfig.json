@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "lib": ["es6"],
+    "target": "ES2018",
+    "lib": ["ES2018", "dom"], 
+    "skipLibCheck": true,
     "strict": true,
     "typeRoots": [
       "./node_modules/@types",
